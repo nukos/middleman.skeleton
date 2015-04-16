@@ -24,5 +24,11 @@ $ git clone https://github.com/nukos/middleman.skeleton
 ### Create Project
 
 ```
-middleman init example.project --template=middleman.skeleton
+$ middleman init example.project --template=middleman.skeleton
+```
+
+### Install Gem
+
+```
+$ bundle install
 ```
